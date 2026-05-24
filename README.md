@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Clifford
 
-<!--
-**Cliff198-bit/Cliff198-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning to become a **Security Analyst**. I'm currently building my foundation in IT, networking, Linux, and cybersecurity tools. I don’t have projects yet, but I'm actively learning and preparing to create my first labs, scripts, and write-ups.
 
-Here are some ideas to get you started:
+## 🔐 What I'm Learning
+- Networking fundamentals  
+- Linux basics  
+- Cybersecurity concepts  
+- Python for automation  
+- SOC analyst skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Goals
+- Build my first cybersecurity home lab  
+- Complete beginner-friendly cyber projects  
+- Start uploading TryHackMe write-ups  
+- Earn foundational certifications (A+, Security+)  
+- Become a Security Analyst  
+
+## 📚 Upcoming Projects
+- TryHackMe learning notes  
+- Python security tools  
+- Home lab documentation  
+- Vulnerability research notes  
+
+## 📫 Connect With Me
+More coming soon as I grow my portfolio.
